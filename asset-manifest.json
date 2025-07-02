@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kite/static/css/main.fd918080.css",
+    "main.js": "/kite/static/js/main.495c0823.js",
+    "index.html": "/kite/index.html",
+    "main.fd918080.css.map": "/kite/static/css/main.fd918080.css.map",
+    "main.495c0823.js.map": "/kite/static/js/main.495c0823.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd918080.css",
+    "static/js/main.495c0823.js"
+  ]
+}
