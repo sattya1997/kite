@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kite/static/css/main.572ab961.css",
-    "main.js": "/kite/static/js/main.d62ccdfc.js",
+    "main.js": "/kite/static/js/main.684bf004.js",
     "index.html": "/kite/index.html",
     "main.572ab961.css.map": "/kite/static/css/main.572ab961.css.map",
-    "main.d62ccdfc.js.map": "/kite/static/js/main.d62ccdfc.js.map"
+    "main.684bf004.js.map": "/kite/static/js/main.684bf004.js.map"
   },
   "entrypoints": [
     "static/css/main.572ab961.css",
-    "static/js/main.d62ccdfc.js"
+    "static/js/main.684bf004.js"
   ]
 }
